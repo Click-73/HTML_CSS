@@ -1,0 +1,9 @@
+.in_block {
+    display: inline-block;
+}
+.block_in { 
+    display: block;
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
