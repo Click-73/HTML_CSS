@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+div{
+    border: 2px solid black;
+    margin: 50px;
+    width: auto;
+}
+
+.one {
+    background-color: blue;
+    height: 400px;
+}
+
+.two {
+    background-color: yellow;
+    height: 300px;
+}
+
+.three {
+    background-color: green;
+    height: 200px;
+}
+
+.four{
+    background-color: pink;
+    height: 100px;
+}
