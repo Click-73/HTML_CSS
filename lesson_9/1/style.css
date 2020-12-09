@@ -28,6 +28,8 @@ div {
     opacity: 1;
     background-color: whitesmoke;
     padding: 0 8px;
+    float: left;
+    
   }
   
   .green {
@@ -41,9 +43,6 @@ div {
     height: 2000px;
   } 
   
-  .static-parent {
-      position: static;
-  }
   
   .relative-parent {
       position: relative;
