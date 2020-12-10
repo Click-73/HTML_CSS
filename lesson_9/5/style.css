@@ -8,6 +8,7 @@
     width: 100%;
     margin: 0;
     position: fixed;
+    z-index: 2;
 }
 
 .navigation {
@@ -15,6 +16,7 @@
 }
 
 .nav-list {
+    height: 40px;
     line-height: 50%;
 }
 
@@ -41,6 +43,7 @@
     right: 0;
     margin: 0 auto;
     top: calc(50% - 100px);
+    z-index: 1;
     
 }
 
