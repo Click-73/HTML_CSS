@@ -44,4 +44,5 @@
 .dropdown {
   position: relative;
   margin: 16px;
+  display: inline-block;
 }
