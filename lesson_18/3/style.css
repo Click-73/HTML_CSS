@@ -1,0 +1,25 @@
+.main_div {
+  display: flex;
+  justify-content: space-around;
+  font-size: 16px;
+}
+
+.first {
+  font-size: 16px;
+}
+
+.second {
+  font-size: 32px;
+}
+
+.third {
+  font-size: 64px;
+}
+
+.fourth {
+  font-size: 128px;
+}
+
+.fifth {
+  font-size: 256px;
+}
