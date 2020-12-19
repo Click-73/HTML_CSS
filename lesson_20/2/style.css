@@ -20,7 +20,7 @@ body {
   /* animation: jump 0.5s ease-in-out 0.4s, rotate 0.5s ease-in-out, hide 1s ease 2forwards; */
 }
 
-@keyframes jump {
+/* @keyframes jump {
   0% {
     transform: translateY(0);
   }
@@ -48,4 +48,4 @@ body {
   to {
     transform: translateX(2000px);
   }
-}
+} */
