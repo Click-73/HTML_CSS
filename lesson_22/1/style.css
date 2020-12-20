@@ -2,13 +2,11 @@
   box-sizing: border-box;
 }
 
-body {
-  display: flex;
-}
-
 .container {
+  height: 100vh;
   display: flex;
-  margin: auto;
+  justify-content: center;
+  align-items: center;
 }
 
 .square {
